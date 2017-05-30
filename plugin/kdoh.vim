@@ -33,5 +33,3 @@ endif
 
 set clipboard=unnamedplus " make y, d, etc work with the system clipboard
 
-
-colorscheme kdoh
